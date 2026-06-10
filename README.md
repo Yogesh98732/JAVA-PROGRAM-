@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="assets/Java_Image.svg" width="800" alt="Java Programming Banner"/>
+<img src="assets/Java Image.jpeg" width="800" alt="Java Programming Banner"/>
 
 ### 🚀 Building Scalable Applications with Java
 💻 Core Java • OOP • DSA • Collections • Multithreading • JDBC • Spring Boot
